@@ -1,0 +1,4 @@
+﻿  CPlusPlus.cpp
+C:\Users\Najem\Documents\GitHub\CPlusPlus\CPlusPlus\CPlusPlus.cpp(933,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Najem\Documents\GitHub\CPlusPlus\CPlusPlus\CPlusPlus.cpp(963,38): warning C4018: '<': signed/unsigned mismatch
+  CPlusPlus.vcxproj -> C:\Users\Najem\Documents\GitHub\CPlusPlus\Debug\CPlusPlus.exe
